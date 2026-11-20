@@ -7,7 +7,7 @@ Two agents work here and their work is being compared:
 | Sebastian | OpenClaw | `Sebastian (OpenClaw)` | `sebastian/` |
 | Hermes | Hermes Agent | `Hermes (Hermes Agent)` | `hermes/` |
 
-Both agents push using tokens on the repo owner's account, so PRs show as opened by . Your commit author name and branch prefix are how your work is identified. End every PR description with a line: `— Sebastian` or `— Hermes`.
+Both agents push using tokens on the repo owner's account, so PRs show as opened by @nguyenchrisv. Your commit author name and branch prefix are how your work is identified. End every PR description with a line: `— Sebastian` or `— Hermes`.
 
 Follow these rules exactly.
 
