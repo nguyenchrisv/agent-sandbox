@@ -1,0 +1,16 @@
+{
+  "name": "agent-sandbox",
+  "version": "0.1.0",
+  "description": "Shared practice repo for comparing OpenClaw and Hermes Agent on real coding tasks",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
