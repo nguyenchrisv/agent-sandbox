@@ -5,15 +5,15 @@ Two agents work here and their work is being compared:
 | Agent | Platform | Commit author | Branch prefix |
 |---|---|---|---|
 | Sebastian | OpenClaw | `Sebastian (OpenClaw)` | `sebastian/` |
-| Hermes | Hermes Agent | `Hermes (Hermes Agent)` | `hermes/` |
+| Bagman | Hermes Agent | `Bagman (Hermes Agent)` | `bagman/` |
 
-Both agents push using tokens on the repo owner's account, so PRs show as opened by @nguyenchrisv. Your commit author name and branch prefix are how your work is identified. End every PR description with a line: `— Sebastian` or `— Hermes`.
+Both agents push using tokens on the repo owner's account, so PRs show as opened by @nguyenchrisv. Your commit author name and branch prefix are how your work is identified. End every PR description with a line: `— Sebastian` or `— Bagman`.
 
 Follow these rules exactly.
 
 ## Branches and pull requests
 - Never push to `main`. It is protected and pushes will be rejected.
-- Create one branch per task using your prefix, e.g. `sebastian/add-due-dates` or `hermes/add-due-dates`.
+- Create one branch per task using your prefix, e.g. `sebastian/add-due-dates` or `bagman/add-due-dates`.
 - Open a pull request into `main` when the task is done. In the PR description include:
   1. What you changed and why
   2. How you tested it (commands you ran and their results)

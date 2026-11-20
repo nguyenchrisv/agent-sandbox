@@ -1,7 +1,7 @@
 # agent-sandbox
 
 A small, dependency-free Node.js todo API used as a shared practice repo for comparing
-OpenClaw and Hermes Agent on real coding tasks.
+OpenClaw (Sebastian) and Hermes Agent (Bagman) on real coding tasks.
 
 ## Run
 
